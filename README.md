@@ -80,6 +80,5 @@ This is a suggested learning progression, not an official prerequisite or mandat
 
 Combine official AWS exam preparation materials with practical security exercises to reinforce cloud security concepts and identify knowledge gaps.
 
-- **Official AWS Resources**: Review the [AWS Certified Security - Specialty page](https://aws.amazon.com/certification/certified-security-specialty/) and the [official SCS-C03 exam guide](https://docs.aws.amazon.com/aws-certification/latest/security-specialty-03/security-specialty-03.html).
 - **CertsGate**: Explore [SCS-C03 certification preparation resources](https://certsgate.com/exams/amazon-web-services/scs-c03) for supplementary study materials and practice questions.
 - **Practical AWS Security Study**: Use the [AWS Security Documentation](https://docs.aws.amazon.com/security/) to explore identity and access management, threat detection, incident response, encryption, and security controls.
